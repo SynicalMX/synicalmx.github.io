@@ -7,7 +7,7 @@
 		<!-- svelte-ignore a11y-missing-attribute -->
 		<img
 			src="./favicon.png"
-			class="mr-1 rounded-full outline outline-4 outline-offset-2 outline-purple-800"
+			class="mr-1 rounded-full aspect-square w-1/4 outline outline-4 outline-offset-2 outline-purple-800"
 		/>
 		<div class="flex h-screen flex-col items-center justify-center">
 			<h1 class="text-3xl font-bold">hi.</h1>

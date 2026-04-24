@@ -9,13 +9,8 @@
 		"dev": "vite dev"
 	},
 	"dependencies": {
-		"@tanstack/svelte-query": "^5.90.2",
-		"@trpc/client": "^10.45.4",
-		"@trpc/server": "^10.45.4",
 		"devalue": "^5.7.1",
-		"dotenv": "^16.6.1",
-		"trpc-svelte-query": "^2.1.0",
-		"zod": "^3.25.76"
+		"dotenv": "^16.6.1"
 	},
 	"devDependencies": {
 		"@eslint/js": "^9.39.4",
